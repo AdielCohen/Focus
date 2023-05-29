@@ -1,5 +1,7 @@
 # Focus
 
+![Alt Text](preview1.png)
+
 1. MYSQL insert code:
 
 CREATE TABLE `focus`.`colors` (
