@@ -69,7 +69,8 @@ VALUES ('7', 'Tair', '19', '0', 'white', 2);
 INSERT INTO employees (id, name, age, is_senior, favorite_color, department)
 VALUES ('8', 'Lihi', '19', '0', 'white', 2);
 
-2.First terminal:
+2.
+First terminal:
 cd frontend > npm start
 
 Second terminal:
