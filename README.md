@@ -4,7 +4,8 @@
 
 ![Alt Text](preview2.png)
 
-1. Open MySQL Workbench and make sure the passwrod of database is:
+1. 
+Open MySQL Workbench and make sure the passwrod of database is:
 123123
 (or go to: backend/focus/settings.py and change the password in line 108)
 
