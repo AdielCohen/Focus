@@ -12,6 +12,8 @@ Open MySQL Workbench and make sure the passwrod of database is:
 After that, Click on "Create a new schema in the connected server" icon and insert the SQL code from git's file "MySQL.txt".
 To finish click "Apply".
 
+![Alt Text](MySQL_icon.png)
+
 2.
 Open new terminal:
 1) cd frontend
