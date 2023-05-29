@@ -75,7 +75,7 @@ Open new terminal:
 2) npm i
 3) npm start
 
-Open Second terminal:
+Open second terminal:
 1) cd backend
 2) python manage.py runserver localhost:4000
 
