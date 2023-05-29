@@ -1,6 +1,7 @@
 # Focus
 
 ![Alt Text](preview2.png)
+
 ![Alt Text](preview1.png)
 
 1. MYSQL insert code:
