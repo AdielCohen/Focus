@@ -70,9 +70,12 @@ INSERT INTO employees (id, name, age, is_senior, favorite_color, department)
 VALUES ('8', 'Lihi', '19', '0', 'white', 2);
 
 2.
-First terminal:
-cd frontend > npm start
+Open new terminal:
+1) cd frontend
+2) npm i
+3) npm start
 
-Second terminal:
-cd backend > python manage.py runserver localhost:4000
+Open Second terminal:
+1) cd backend
+2) python manage.py runserver localhost:4000
 
