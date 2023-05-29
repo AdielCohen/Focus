@@ -1,0 +1,64 @@
+.App {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  user-select: none;
+}
+
+.Title {
+  position: relative;
+  margin-top: 0;
+  height: 5.4vh;
+  width: 100vw;
+  text-align: center;
+  font-size: 3.6vh;
+  font-weight: 400;
+  color: rgb(255, 254, 253);
+  background: linear-gradient(180deg, rgba(5,15,46,1) 0%, rgba(7,4,23,1) 100%);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.Development-btn {
+  margin: 30px;
+  padding: 10px;
+  cursor: pointer;
+  transition: all .2s ease-in-out;
+}
+
+.Development-btn:hover {
+  transform: scale(0.97);
+}
+
+.Finance-btn {
+  margin: 30px;
+  padding: 10px;
+  cursor: pointer;
+  transition: all .3s ease-in-out;
+}
+
+.Finance-btn:hover {
+  transform: scale(0.97);
+}
+
+@media screen and (max-width: 950px) {
+  .App {
+    display: block;
+  }
+
+  .Development-btn {
+    display: inline-block;
+    height: auto;
+    width: 80%;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .Finance-btn {
+    display: inline-block;
+    height: auto;
+    width: 80%;
+    margin: 0px;
+    padding: 0px;
+  }
+}
