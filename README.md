@@ -22,6 +22,5 @@ Open new terminal:
 
 Open second terminal:
 1) cd backend
-2) cd focus
-3) python manage.py runserver localhost:4000
+2) python manage.py runserver localhost:4000
 
